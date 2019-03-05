@@ -1,5 +1,5 @@
 #include <stdio.h>
-#INCLUDE<CONIO.H>
+#INCLUDE<conio.h>
 int main(void) {
 	int m,n,o;
 	scanf("%d %d %d",&m,&n,&o);
